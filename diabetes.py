@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# This is a simple example demostrate the use SQLAlchemy with sqlite database
+# This is a simple demostration of the SQLAlchemy with sqlite database
 # Import create_engine, MetaData
 from sqlalchemy import create_engine, MetaData, select
 from sqlalchemy import Table, Column, String, Integer, Float
